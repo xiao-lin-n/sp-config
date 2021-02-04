@@ -15,7 +15,7 @@ server:
   
 sp:
   user-service: 
-    users: "[{\"id\":7, \"username\":\"熊猫\",\"password\":\"123\"},{\"id\":8, \"username\":\"大象\",\"password\":\"123\"},{\"id\":9, \"username\":\"老虎\",\"password\":\"123\"},{\"id\":99, \"username\":\"佩奇\",\"password\":\"123\"}]"
+    users: "[{\"id\":7, \"username\":\"熊猫\",\"password\":\"123\"},{\"id\":8, \"username\":\"大象\",\"password\":\"123\"},{\"id\":9, \"username\":\"老虎\",\"password\":\"123\"},{\"id\":99, \"username\":\"小猪佩奇\",\"password\":\"123\"}]"
 
 eureka:
   client:
